@@ -35,9 +35,9 @@ void loop()
 
   //Gửi giá trị cảm biến lên LCD
   //Show the sensor value on LCD
-  lcd.setCursor(4,0);
+  lcd.setCursor(1,0);
   lcd.print("Value:");
-  lcd.setCursor(4,1);
+  lcd.setCursor(1,1);
   lcd.print(sensorValue);
 
   // Truyền khoảng cách đo được của cảm biến lên máy tính.
