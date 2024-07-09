@@ -35,13 +35,13 @@ Ta thấy theo công thức trong hình giá trị Vout sẽ thay đổi theo gi
 
 ## Hình ảnh sản phẩm
 
-![MKE_S02_LDR](/image/MKE_S02_LDR_1.jpg)
+![MKE_S02_LDR](/image/MKE_S02_LDR_2.jpg)
 
-![MKE_S02_LDR](/image/MKE_S02_LDR_1.jpg)
+![MKE_S02_LDR](/image/MKE_S02_LDR_3.jpg)
 
 ## Kích thước sản phẩm
 
-![MKE_S02_LDR](/image/MKE_S02_LDR_1.jpg)
+![MKE_S02_LDR](/image/MKE_S02_LDR_4.jpg)
 
 ## Các chân tín hiệu
 
@@ -73,7 +73,7 @@ Ta thấy theo công thức trong hình giá trị Vout sẽ thay đổi theo gi
 [Hướng dẫn cài đặt phần mềm, nạp chương trình, cài đặt bộ thư viện Arduino cơ bản.](https://github.com/makerlabvn/Arduino-Vietduino)
 - Tải và cài đặt [phần mềm Arduino tại đây.](https://www.arduino.cc/en/software)
 - Trong Tools / Library Manager, tìm và cài đặt bộ thư viện tổng hợp "MAKERLABVN" by MakerLab.vn
-- Mở chương trình mẫu "MKE_S02_LDR_LCD_Serial.ino" tại File / Examples / MAKERLABVN / Sensor / MKE-S01_Ultrasonic hoặc [tải chương trình mẫu tại đây](/arduino)
+- Mở chương trình mẫu "MKE_S02_LDR_LCD_Serial.ino" tại File / Examples / MAKERLABVN / Sensor / MKE_S02_LDR hoặc [tải chương trình mẫu tại đây](/arduino)
 - Chọn board là Arduino Uno (mạch Vietduino Uno tương thích với Arduino Uno), chọn đúng cổng COM Port của mạch và tiến hành nạp chương trình.
 - Kết nối mạch Vietduino Uno với MakerEdu Shield, kết nối cảm biến tại cổng [A1] và màn hình LCD vào cổng [I2C] trên MakerEdu Shield, cấp nguồn qua cổng USB của Vietduino Uno để thấy chương trình hoạt động.
 
