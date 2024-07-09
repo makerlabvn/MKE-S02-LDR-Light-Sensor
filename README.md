@@ -23,8 +23,9 @@ Ta thấy theo công thức trong hình giá trị Vout sẽ thay đổi theo gi
 
 ## Thông số kỹ thuật
 
+- Model: MKE-S02
 - Điện áp hoạt động: 5VDC
-- Chuẩn giao tiếp: Analog-
+- Chuẩn giao tiếp: Analog
 - Điện áp giao tiếp: 0~3.3VDC
 - Đo cường độ ánh sáng bằng quang trở (LDR-Light Dependent Resistor)
 - Sử dụng trực tiếp an toàn với các board mạch giao tiếp ở cả hai mức điện áp 3.3VDC và 5VDC như: Arduino, Raspberry Pi, Jetson Nano, Micro:bit,....
