@@ -39,6 +39,7 @@ void loop()
   lcd.print("Value:");
   lcd.setCursor(1,1);
   lcd.print(sensorValue);
+  lcd.print("   ");
 
   // Truyền khoảng cách đo được của cảm biến lên máy tính.
   // Show the sensor value on Arduno Serial Monitor
